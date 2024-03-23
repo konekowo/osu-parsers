@@ -1,8 +1,9 @@
-/**
+node_modules
 !/docs
 !/docs/**
 !/src
 !/src/**
+!/lib/
 !/tests
 !/tests/**
 !.eslintignore
